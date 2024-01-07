@@ -1,0 +1,5 @@
+# Determines random teleport range in each dimensions
+rtp_area = (Range of random teleport) int 500
+
+# Allows players use /rtp command once per x seconds only
+rtp_cooldown = (Range of random teleport) int 15
