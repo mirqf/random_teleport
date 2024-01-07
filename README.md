@@ -1,5 +1,3 @@
-# Minetest Mod: Rtp
-
 ## Commands:
 `/rtp [<player>]` Teleport player to a random world position.
 
@@ -10,5 +8,5 @@
 - Other features
 
 ## Settings:
-- /set -n rtp_area <int>
-- /set -n rtp_cooldown <int>
+`/set -n rtp_area` <int>
+`/set -n rtp_cooldown` <int>
